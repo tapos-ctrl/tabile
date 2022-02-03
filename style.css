@@ -43,3 +43,31 @@ h4{
     border-radius: 50px;
     border:none;
 }
+
+
+
+
+
+/* section-tow */
+.custom-image{
+    height: 130px;
+}
+.custom-card{
+    border: 0px;
+    background:rgb(247, 245, 245)
+}
+.custom-text> h5{
+    font-weight:600
+}
+.custom-text> h6{
+    font-weight:600;
+}
+.custom-text> p{
+    font-size:14px;
+    color:rgb(67, 66, 66);
+}
+.section-two{
+
+    margin-top:50px;
+    background:rgb(233, 233, 233);
+}
